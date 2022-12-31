@@ -1,1 +1,1 @@
-prin("inside child branch")
+print("inside child branch")
